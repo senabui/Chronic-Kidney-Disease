@@ -9,3 +9,4 @@ The following ML models were used in our research methodology:
 * Clustering
 * Logistic Regression
 
+<img src="Images/K-Means Clustering Visualization.png">
